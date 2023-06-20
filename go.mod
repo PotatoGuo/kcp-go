@@ -1,4 +1,4 @@
-module github.com/potato/kcp-go/v1
+module github.com/PotatoGuo/kcp-go
 
 require (
 	github.com/klauspost/reedsolomon v1.10.0
